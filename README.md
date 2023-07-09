@@ -6,14 +6,30 @@
 
 - [Proyectos](#proyectos)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Enlaces a los proyectos desplegados](#enlaces-a-los-proyectos-desplegados)
 
 ## Proyectos
 
-1. **Nombre del Proyecto 1**
-   - Descripción breve del proyecto 1. Incluye los objetivos principales, las funcionalidades destacadas y las tecnologías utilizadas.
-   - Enlace al repositorio del proyecto: [Nombre del Proyecto 1](enlace-al-repositorio)
-   - Capturas de pantalla o enlaces a demostraciones en vivo (si están disponibles).
+1. **Proyecto 1: Recreación de la Landing Page de Slack**
+
+En este proyecto, he recreado la landing page de Slack, una popular plataforma de comunicación y colaboración en equipo. El objetivo principal es practicar mis habilidades de desarrollo frontend al replicar el diseño y la funcionalidad de la landing page de Slack.
+
+Funcionalidades destacadas:
+- Diseño Responsivo: La landing page se adapta y se ve correctamente en diferentes dispositivos y tamaños de pantalla.
+- Navegación Interactiva: Se ha implementado una navegación intuitiva y atractiva, permitiendo a los usuarios explorar las diferentes secciones de la página.
+- Animaciones y Efectos Visuales: Se han utilizado animaciones y efectos visuales sutiles para mejorar la experiencia del usuario y destacar elementos clave.
+- Formulario de Registro: Se ha implementado un formulario de registro interactivo que captura la información del usuario y valida los campos antes de enviar los datos.
+
+Tecnologías utilizadas:
+- HTML5 y CSS3: Utilizados para estructurar y estilizar la página de manera semántica y visualmente atractiva.
+- JavaScript: Empleado para agregar interactividad a la página, como animaciones, eventos y validación de formularios.
+
+Enlace al repositorio del proyecto: [Landing Page Slack](https://github.com/laura13294/Portfolio/tree/main/1.%20Landing%20Slack)
+
+Deploy
+
+En este proyecto, he puesto especial énfasis en seguir prácticas de desarrollo limpio y modular, así como en garantizar un código bien estructurado y mantenible.
+
+Capturas de pantalla:
 
 ## Tecnologías utilizadas
 
@@ -26,10 +42,6 @@ Aquí se listan las tecnologías y herramientas que he utilizado en mis proyecto
 - Bootstrap / Tailwind
 - SASS/SCSS
 - Git
-
-## Enlaces a los proyectos desplegados
-
-- Enlace 1
 
 ---
 

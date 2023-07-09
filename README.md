@@ -1,6 +1,6 @@
-# Portafolio de Proyectos - Desarrolladora Frontend
+# Portafolio - Desarrolladora Frontend
 
-¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una recopilación de los proyectos en los que he trabajado como desarrolladora frontend. Estos proyectos son el resultado de mi práctica y exploración personal en el campo del desarrollo web. A través de ellos, he tenido la oportunidad de poner en práctica mis habilidades y mostrar mi progreso en la creación de sitios web, el desarrollo de aplicaciones interactivas y la implementación de diseños atractivos. 
+¡Bienvenido a mi portafolio! Aquí encontrarás una recopilación de los proyectos en los que he trabajado como desarrolladora frontend. Estos proyectos son el resultado de mi práctica y exploración personal. A través de ellos, he tenido la oportunidad de poner en práctica mis habilidades y mostrar mi progreso en la creación de sitios web, el desarrollo de aplicaciones interactivas y la implementación de diseños atractivos. 
 
 ## Proyectos
 

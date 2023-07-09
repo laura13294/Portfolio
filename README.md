@@ -2,11 +2,6 @@
 
 ¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una recopilación de los proyectos en los que he trabajado como desarrolladora frontend. Estos proyectos son el resultado de mi práctica y exploración personal en el campo del desarrollo web. A través de ellos, he tenido la oportunidad de poner en práctica mis habilidades y mostrar mi progreso en la creación de sitios web, el desarrollo de aplicaciones interactivas y la implementación de diseños atractivos. 
 
-## Tabla de contenidos
-
-- [Proyectos](#proyectos)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-
 ## Proyectos
 
 1. **Proyecto 1: Recreación de la Landing Page de Slack**
@@ -31,17 +26,6 @@ En este proyecto, he puesto especial énfasis en seguir prácticas de desarrollo
 
 Capturas de pantalla:
 
-## Tecnologías utilizadas
-
-Aquí se listan las tecnologías y herramientas que he utilizado en mis proyectos:
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap / Tailwind
-- SASS/SCSS
-- Git
 
 ---
 
